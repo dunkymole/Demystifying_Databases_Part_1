@@ -4,3 +4,4 @@
 4. other join types
 5. make querying more composable
 6. a more complete query analyser (current method of querying forces the query writer to specify the index)
+7. nullable structs are currently causing some pain as keys
