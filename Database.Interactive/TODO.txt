@@ -1,0 +1,6 @@
+1. we need to roll back the current transaction when a unique check constraint fails
+2. we need transactions more generally
+3. a nice solution for composite keys (c# type system is making life hard)
+4. other join types
+5. make querying more composable
+6. a more complete query analyser (current method of querying forces the query writer to specify the index)
